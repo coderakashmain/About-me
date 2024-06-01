@@ -19,4 +19,4 @@ I'm currently working on Full stack Developer Disigning with help of reactjs.<br
 
 
 --All about me--
---self creat by gprm--
+--self create by gprm--
