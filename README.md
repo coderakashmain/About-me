@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on Full stack Developer Disigning with help of reactjs.<br>Also i have knowledge  of advance c++ and DSA.  I know a little bit  about  c and java;
+#  About Me:
+I'm a Full stack Developer. Disigning with help of reactjs.<br>Also i have knowledge  of advance c++ and DSA.  I know a little bit  about  c and java;
 
 
 # 💻 Tech Stack:
