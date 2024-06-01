@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Full stack Web Developer. Digning with the help of reactjs.<br>Also i have knowledge  of advance c++ and DSA.  I know a little bit  about  c and java;
+I'm currently working on Full stack Developer Disigning with help of reactjs.<br>Also i have knowledge  of advance c++ and DSA.  I know a little bit  about  c and java;
 
 
 # 💻 Tech Stack:
@@ -19,3 +19,4 @@ I'm currently working on Full stack Web Developer. Digning with the help of reac
 
 
 --All about me--
+--self creat by gprm--
